@@ -1,0 +1,3 @@
+﻿  Pressure.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Pressure\Pressure\Pressure.cpp(10,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Pressure.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Pressure\x64\Debug\Pressure.exe

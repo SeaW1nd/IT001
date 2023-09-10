@@ -1,0 +1,7 @@
+﻿  Tổng 2 ma trận.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Tổng 2 ma trận\Tổng 2 ma trận\Tổng 2 ma trận.cpp(10,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Tổng 2 ma trận.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Tổng 2 ma trận\x64\Debug\Tổng 2 ma trận.exe

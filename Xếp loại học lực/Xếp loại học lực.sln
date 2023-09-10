@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Xếp loại học lực", "Xếp loại học lực\Xếp loại học lực.vcxproj", "{541524D1-A191-44BC-BCCA-5FDA7C1283CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Debug|x64.ActiveCfg = Debug|x64
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Debug|x64.Build.0 = Debug|x64
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Debug|x86.Build.0 = Debug|Win32
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Release|x64.ActiveCfg = Release|x64
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Release|x64.Build.0 = Release|x64
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Release|x86.ActiveCfg = Release|Win32
+		{541524D1-A191-44BC-BCCA-5FDA7C1283CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4259B926-51A2-41D9-A130-992CE756DA4F}
+	EndGlobalSection
+EndGlobal

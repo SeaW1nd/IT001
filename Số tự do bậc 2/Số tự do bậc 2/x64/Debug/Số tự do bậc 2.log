@@ -1,0 +1,4 @@
+﻿  Số tự do bậc 2.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Số tự do bậc 2\Số tự do bậc 2\Số tự do bậc 2.cpp(36,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Số tự do bậc 2\Số tự do bậc 2\Số tự do bậc 2.cpp(42,42): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+  Số tự do bậc 2.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Số tự do bậc 2\x64\Debug\Số tự do bậc 2.exe

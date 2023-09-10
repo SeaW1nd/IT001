@@ -1,0 +1,4 @@
+﻿  Twin prime.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Twin prime\Twin prime\Twin prime.cpp(21,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Twin prime\Twin prime\Twin prime.cpp(21,55): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Twin prime.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Twin prime\x64\Debug\Twin prime.exe

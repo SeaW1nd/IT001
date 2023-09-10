@@ -1,0 +1,5 @@
+﻿  New Number.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\New Number\New Number\New Number.cpp(10,16): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\New Number\New Number\New Number.cpp(19,18): warning C4244: '-=': conversion from 'long' to 'char', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\New Number\New Number\New Number.cpp(26,16): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+  New Number.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\New Number\x64\Debug\New Number.exe

@@ -1,0 +1,9 @@
+﻿  Xử lý số lớn.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(80,22): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(83,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(90,29): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(91,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(94,30): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(100,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\Xử lý số lớn\Xử lý số lớn.cpp(103,30): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Xử lý số lớn.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Xử lý số lớn\x64\Debug\Xử lý số lớn.exe

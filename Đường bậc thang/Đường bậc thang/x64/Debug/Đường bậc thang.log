@@ -1,0 +1,4 @@
+﻿  Đường bậc thang.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Đường bậc thang\Đường bậc thang\Đường bậc thang.cpp(25,18): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Đường bậc thang\Đường bậc thang\Đường bậc thang.cpp(27,25): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Đường bậc thang.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Đường bậc thang\x64\Debug\Đường bậc thang.exe

@@ -1,0 +1,4 @@
+﻿  Hoán vị số.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Hoán vị số\Hoán vị số\Hoán vị số.cpp(45,27): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Hoán vị số\Hoán vị số\Hoán vị số.cpp(54,26): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  Hoán vị số.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong C++ Homework\Hoán vị số\x64\Debug\Hoán vị số.exe

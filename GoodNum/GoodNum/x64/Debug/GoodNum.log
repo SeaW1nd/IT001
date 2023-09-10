@@ -1,0 +1,4 @@
+﻿  GoodNum.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\GoodNum\GoodNum\GoodNum.cpp(14,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\GoodNum\GoodNum\GoodNum.cpp(15,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GoodNum.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\GoodNum\x64\Debug\GoodNum.exe

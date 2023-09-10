@@ -1,0 +1,3 @@
+﻿  Xâu đối xứng.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Xâu đối xứng\Xâu đối xứng\Xâu đối xứng.cpp(9,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Xâu đối xứng.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Stuff or sth like that\Phong's Experiment\Xâu đối xứng\x64\Debug\Xâu đối xứng.exe
